@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **Computer engineering at University Ho Chi Minh city of technology**
 
 - 📫 How to reach me **votrieu1301@gmail.com**
+- check my resporitory to see what i have done.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
